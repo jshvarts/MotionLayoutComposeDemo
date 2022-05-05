@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MotionLayoutComposeDemo</string>
+    <string name="compose_icon_description">Jetpack Compose icon</string>
+    <string name="text_compose">Compose</string>
+</resources>
